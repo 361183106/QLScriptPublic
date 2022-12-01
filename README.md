@@ -1,8 +1,8 @@
 # QLScriptPublic 青龙脚本公共库
 # 如果你感觉我的仓库有用,可以适当赞助!金额随机!请备注赞助！将在本仓库README.md展示赞助用户
-<img src="https://ghproxy.com/https://raw.githubusercontent.com/smallfawn/QLScriptPublic/main/QRCode/wxcode.png" width="500" height="500" alt="wx"/><br/>
-<img src="https://ghproxy.com/https://raw.githubusercontent.com/smallfawn/QLScriptPublic/main/QRCode/zfbcode.jpg" width="500" height="500" alt="zfb"/><br/>
-<img src="https://ghproxy.com/https://raw.githubusercontent.com/smallfawn/QLScriptPublic/main/QRCode/qq.png" width="500" height="500" alt="qq"/><br/>
+<img src="https://ghproxy.com/https://raw.githubusercontent.com/smallfawn/QLScriptPublic/main/QRCode/wxcode.png" width="400" height="400" alt="wx"/><br/>
+<img src="https://ghproxy.com/https://raw.githubusercontent.com/smallfawn/QLScriptPublic/main/QRCode/zfbcode.jpg" width="400" height="400" alt="zfb"/><br/>
+<img src="https://ghproxy.com/https://raw.githubusercontent.com/smallfawn/QLScriptPublic/main/QRCode/qq.png" width="400" height="400" alt="qq"/><br/>
 
 
 =====================
