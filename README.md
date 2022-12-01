@@ -3,6 +3,7 @@
 ![image](https://ghproxy.com/https://raw.githubusercontent.com/smallfawn/QLScriptPublic/main/QRCode/wx.png)
 ![image](https://ghproxy.com/https://raw.githubusercontent.com/smallfawn/QLScriptPublic/main/QRCode/zfb.jpg)
 ![image](https://ghproxy.com/https://raw.githubusercontent.com/smallfawn/QLScriptPublic/main/QRCode/qq.png)
+<img src="https://ghproxy.com/https://raw.githubusercontent.com/smallfawn/QLScriptPublic/main/QRCode/qq.png" width="200" height="200" alt="QQ"/><br/>
 
 
 =====================
