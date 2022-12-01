@@ -21,7 +21,7 @@
 const $ = new Env("演示模板");
 const ckName = "demo_data";
 //-------------------- 一般不动变量区域 -------------------------------------
-let utils = require("./utils");
+//const utils = require("./utils");
 const notify = $.isNode() ? require("./sendNotify") : "";
 const Notify = 1;		 //0为关闭通知,1为打开通知,默认为1
 let debug = 0;           //Debug调试   0关闭  1开启
